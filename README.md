@@ -50,10 +50,12 @@ An interactive Power BI dashboard for healthcare data analysis, designed to deli
 
 ---
 
-## 📎 License
-This project is provided for educational and portfolio purposes.
+## 📝 Author
+
+**Imran Raza**  
+[LinkedIn](https://www.linkedin.com/in/imran-raza-883b9178/)  
+📧 syedimran.raza@outlook.com
 
 ---
 
-## 💬 Feedback
-Feel free to fork, use, or suggest improvements via GitHub Issues.
+> ⚠️ _This project uses dummy or anonymized data for demonstration purposes only._
